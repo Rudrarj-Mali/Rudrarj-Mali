@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rudrarj-Mali
+- 👀 I’m interested in java,c++,typescript
+- 🌱 I’m currently learning typescript
